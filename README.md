@@ -3,9 +3,13 @@
 Esse repo é uma série de aulas em Java da plataforma 
 [Digital Innovation One](https://digitalinnovation.one/sign-up?ref=QFX2ZVP4RU)
 
-# Aula 1 - módulo 1 Collections I - List e Vector
+# Collections I - List e Vector
 
 exemplos de Listas e Vector e suas aplicações com exercicio final.
+
+# Collections II - Queue
+
+exemplos de Queue e suas aplicações com exercicio final.
 
 ## Instalação
 
