@@ -11,6 +11,10 @@ exemplos de Listas e Vector e suas aplicações com exercicio final.
 
 exemplos de Queue e suas aplicações com exercicio final.
 
+# Collections III - Sets
+
+exemplos de Sets - HashSet, LinkHashSet e TreeSet, com exemplos e suas aplicações com exercicio final.
+
 ## Instalação
 
 ### requisitos necessários ter instalado
