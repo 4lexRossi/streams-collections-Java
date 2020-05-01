@@ -15,6 +15,10 @@ exemplos de Queue e suas aplicações com exercicio final.
 
 exemplos de Sets - HashSet, LinkHashSet e TreeSet, com exemplos e suas aplicações com exercicio final.
 
+# Collections IV - Map
+
+exemplos de Map - HashMap, TreeMap e HashTable, com exemplos e suas aplicações com exercicio final.
+
 ## Instalação
 
 ### requisitos necessários ter instalado
