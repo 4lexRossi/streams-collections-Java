@@ -19,6 +19,10 @@ exemplos de Sets - HashSet, LinkHashSet e TreeSet, com exemplos e suas aplicaç�
 
 exemplos de Map - HashMap, TreeMap e HashTable, com exemplos e suas aplicações com exercicio final.
 
+# Collections V - Comparators
+
+exemplos de Comparators - com exemplos e suas aplicações.
+
 ## Instalação
 
 ### requisitos necessários ter instalado
@@ -30,4 +34,4 @@ exemplos de Map - HashMap, TreeMap e HashTable, com exemplos e suas aplicações
 
 2. Acesse o projeto pelo Intellij IDEA
 
-e em seguida o comando pelo terminal
+e em seguida execute pelo terminal
