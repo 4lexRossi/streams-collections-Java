@@ -23,6 +23,10 @@ exemplos de Map - HashMap, TreeMap e HashTable, com exemplos e suas aplicações
 
 exemplos de Comparators - com exemplos e suas aplicações.
 
+# Collections VI - Optionals
+
+exemplos de Optionals - com exemplos e suas aplicações.
+
 ## Instalação
 
 ### requisitos necessários ter instalado
