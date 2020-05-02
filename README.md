@@ -27,6 +27,10 @@ exemplos de Comparators - com exemplos e suas aplicações.
 
 exemplos de Optionals - com exemplos e suas aplicações.
 
+# Collections VII - StreamsAPI
+
+exemplos de streamsAPI - com exemplos e suas aplicações.
+
 ## Instalação
 
 ### requisitos necessários ter instalado
